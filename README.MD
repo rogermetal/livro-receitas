@@ -1,4 +1,6 @@
 #Livro de receitas
 
-Ola! Bem vindo ao meu livro de receitas
- - Strogonoff de frango
+Ola! Bem vindo ao meu livro de receita
+
+- Strogonoff de frango
+- Pavê
